@@ -1,0 +1,45 @@
+# React Native
+node_modules/
+ios/
+android/
+*.log
+*.patch
+*.crt
+*.pem
+*.p12
+*.key
+*.mobileprovision
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.xcworkspace
+*.xcuserstate
+*.lock
+*.DS_Store
+*.env
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build directories
+build/
+dist/
